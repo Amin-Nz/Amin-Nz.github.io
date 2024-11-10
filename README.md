@@ -35,19 +35,19 @@
 
   <header>
     <h1>Welcome to My Personal Website</h1>
-    <p>Hi, I'm <strong>Your Name</strong> — a passionate developer and creator.</p>
+    <p>Hi, I'm <strong>Mohammadamin Norouzi</strong> — a Cyber Security Enthusiast.</p>
   </header>
 
   <section>
     <h2>About Me</h2>
-    <p>I am a software developer with experience in various technologies. Here is a quick overview of my skills and projects.</p>
+    <p>I am a DevOps Engieer.</p>
   </section>
 
   <section>
     <h2>Contact</h2>
     <p>You can reach out to me through the following links:</p>
-    <a href="https://www.linkedin.com/in/your-linkedin-profile" class="link" target="_blank">LinkedIn</a>
-    <a href="mailto:youremail@example.com" class="link" target="_blank">Email</a>
+    <a href="https://www.linkedin.com/in/mohammadamin-norouzi-365997180/" class="link" target="_blank">LinkedIn</a>
+    <a href="mailto:aminnz562@gmail.com" class="link" target="_blank">Email</a>
   </section>
 
 </body>
